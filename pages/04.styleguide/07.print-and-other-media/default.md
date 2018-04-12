@@ -1,4 +1,0 @@
----
-title: 'Print & other media'
----
-
