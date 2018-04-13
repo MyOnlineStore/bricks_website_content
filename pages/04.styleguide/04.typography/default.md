@@ -19,7 +19,7 @@ visible: true
 <p>H2 - Melbourne - for Paragraph headers - 28px - line-height: 1.25</p>
 <h3 id="mcetoc_1cavbfqi76">Heading 3 - The quick brown fox jumps over the lazy dog.</h3>
 <p>H3 - Melbourne - for misc headers - line-height: 1.25</p>
-<p>&nbsp;</p>
+<hr />
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
 <p>20px Body - Source Sans Pro - 14px - 22px line-height</p>
 </div>
