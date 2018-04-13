@@ -20,7 +20,7 @@ visible: true
 <p>H2 - Melbourne - for Paragraph headers - 28px - line-height: 1.25</p>
 <p>&nbsp;</p>
 <h3 id="mcetoc_1cavbfqi76">Heading 3 - The quick brown fox jumps over the lazy dog.</h3>
-<p>H3 - Melbourne - for misc headers - line-height: 1.25</p>
+<p>H3 - Melbourne - for misc headers - 22px - line-height: 1.25</p>
 </div>
 <hr />
 <div class="font-size-samples">
