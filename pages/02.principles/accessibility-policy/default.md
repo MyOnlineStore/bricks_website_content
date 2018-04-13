@@ -37,11 +37,14 @@ visible: true
 <h3 id="mcetoc_1calaeni14">Subtitles in video</h3>
 <p><em><span style="font-weight: 400;">Add subtitles to our own content, not third party content and only when this is technically possible and in a reasonable time, like Youtube has a tool for adding subtitles.</span></em></p>
 <h3 id="mcetoc_1calael5r3">Color contrast</h3>
-<p><em><span style="font-weight: 400;">Only primary elements need to have a <a href="https://contrastchecker.com/">WCAG AA level contrast</a>.</span></em></p>
+<p><em><span style="font-weight: 400;">Only primary elements need to have a <a href="https://contrastchecker.com/">WCAG AA level contrast</a>. Like a submit button, page header, search box, etc.</span></em></p>
 <h3 id="mcetoc_1calaeijo2">Keyboard input</h3>
-<p><em><span style="font-weight: 400;">Alle elementen moeten benaderbaar zijn met een toetsenbord en de volgorde moet logisch zijn (tabindex volgorde)</span></em></p>
+<ul>
+<li><em><span style="font-weight: 400;">All components should be reachable with a keyboard</span></em></li>
+<li><em>All keyboard elements should have a logical order (tabindex)</em></li>
+</ul>
 <h3 id="mcetoc_1cala731p0">Screen reader</h3>
-<ul style="list-style-type: circle;">
+<ul>
 <li><em><span style="font-weight: 400;">Sites should be properly usable with a screen reader.</span></em></li>
 <li><em><span style="font-weight: 400;">Invisible elements and decorative elements should be hidden from screen readers (aria-role=hidden).</span></em></li>
 <li><em><span style="font-weight: 400;">Declaring a language attribute on the HTML element enables a screen reader to read out the text with correct pronunciation.</span></em></li>
