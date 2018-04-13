@@ -16,17 +16,28 @@ visible: true
 <li><span style="font-weight: 400;">search</span></li>
 </ul>
 <h3 id="mcetoc_1calaf21q8">Semantics</h3>
-<p><em><span style="font-weight: 400;">Use a tool to check for major issues with semantics in HTML. Only applicable on layout and important elements, not on specialized components and details.</span></em></p>
+<p><em><span style="font-weight: 400;">Use a tool to check for major issues with semantics in HTML. Only applicable on layout and important elements, not on specialized components and details like foldout menu's or the shipping rates component. The goal is to make the majority of all components and resulting DOM semantically correct so it makes sense without stylesheet, on a screenreader or in other situations where the visual representation is secondary to the structure of a page.</span></em></p>
 <h3 id="mcetoc_1calaf00d7">Links</h3>
-<p><em><span style="font-weight: 400;">Every link should have a clear :focus state and should be accessible with a keyboard. Also, every page should have a hidden "jump to content" link.</span></em></p>
+<ul>
+<li><em><span style="font-weight: 400;">Every link should have a clear :focus state and should be accessible with a keyboard. That way people will not get lost easily and keyboard-first users (like people with a motoric disability) can navigate the system easily.&nbsp;</span></em></li>
+<li><em><span style="font-weight: 400;">Every page should have a hidden "jump to content" link to skip the header, navigation and all elements that are redundant in the systems.</span></em></li>
+</ul>
 <h3 id="mcetoc_1calaetuk6">Alternative text</h3>
-<p><em>Alle afbeeldingen moeten een zinnige ALT attr hebben. SVG's moeten een title tag hebben, zodat ze ook voorgelezen kunnen worden.</em></p>
+<ul>
+<li><em>All images in the system should have a <strong>usefull&nbsp;</strong>ALT attribute. Don't repeat the filename, but create a usefull description that explains what is visible in the picture or what the goal of the image is. </em></li>
+<li><em>SVG includes should contain a title tag which is the SVG alternative for an ALT attribute.</em></li>
+</ul>
 <h3 id="mcetoc_1calaeq1k5">Forms</h3>
-<p><em><span style="font-weight: 400;">Formulieren moeten een logische layout hebben, alle velden moeten een label met tekst hebben, geen placeholders als label en gebruik fieldsets om velden te groeperen</span></em></p>
+<ul>
+<li><em><span style="font-weight: 400;">Forms need to have a logical layout and orde. </span></em></li>
+<li><em><span style="font-weight: 400;">All fields should have a connected label with a text. </span></em><em><span style="font-weight: 400;">Empty labels are not allowed. </span></em></li>
+<li><em><span style="font-weight: 400;">Do not use placeholders as labels. </span></em></li>
+<li><em><span style="font-weight: 400;">Formfields need to be grouped in fieldsets when necessary.</span></em></li>
+</ul>
 <h3 id="mcetoc_1calaeni14">Subtitles in video</h3>
-<p><em><span style="font-weight: 400;">Alleen op eigen content en alleen wanneer het technisch mogelijk is (zoals youtube die hierin voorziet)</span></em></p>
+<p><em><span style="font-weight: 400;">Add subtitles to our own content, not third party content and only when this is technically possible and in a reasonable time, like Youtube has a tool for adding subtitles.</span></em></p>
 <h3 id="mcetoc_1calael5r3">Color contrast</h3>
-<p><em><span style="font-weight: 400;">Alleen voor primaire elementen zoals de navigatie, buttons en pricetags</span></em></p>
+<p><em><span style="font-weight: 400;">Only primary elements need to have a <a href="https://contrastchecker.com/">WCAG AA level contrast</a>.</span></em></p>
 <h3 id="mcetoc_1calaeijo2">Keyboard input</h3>
 <p><em><span style="font-weight: 400;">Alle elementen moeten benaderbaar zijn met een toetsenbord en de volgorde moet logisch zijn (tabindex volgorde)</span></em></p>
 <h3 id="mcetoc_1cala731p0">Screen reader</h3>
