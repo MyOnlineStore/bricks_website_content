@@ -15,8 +15,10 @@ visible: true
 <div class="font-size-samples">
 <h1 id="mcetoc_1cavbfk4o4">Heading 1 - The quick brown fox jumps over the lazy dog.</h1>
 <p>H1 - Melbourne - for page titles (one per page max) - 36px- line-height: 1.25</p>
+<p>&nbsp;</p>
 <h2 id="mcetoc_1cavbfmv75">Heading 2 - The quick brown fox jumps over the lazy dog.</h2>
 <p>H2 - Melbourne - for Paragraph headers - 28px - line-height: 1.25</p>
+<p>&nbsp;</p>
 <h3 id="mcetoc_1cavbfqi76">Heading 3 - The quick brown fox jumps over the lazy dog.</h3>
 <p>H3 - Melbourne - for misc headers - line-height: 1.25</p>
 <hr />
