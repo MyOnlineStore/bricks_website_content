@@ -7,10 +7,12 @@ visible: true
 <p id="mcetoc_1cavcpfsj0">Mijnwebwinkel uses two fonts, most of the content is published in Source Sans Pro and headings or other display texts use the Melbourne font.</p>
 <hr />
 <h2 id="mcetoc_1cavbc6pr0">Melbourne</h2>
-<p>Use Melbourne for headers, titles, quotes and other important short messages. Use Melbourne in the light and bold version. Try to mix it up a bit with the bold and light version and kick it up a nudge. Lay the emphasis on what is important by making it &lsquo;bolder&rsquo;. ![](Screen%20Shot%202018-04-03%20at%2013.32.05.png)&nbsp;</p>
+<p>Use Melbourne for headers, titles, quotes and other important short messages. Use Melbourne in the light and bold version. Try to mix it up a bit with the bold and light version and kick it up a nudge. Lay the emphasis on what is important by making it &lsquo;bolder&rsquo;.</p>
+<p><img src="Screen%20Shot%202018-04-03%20at%2013.32.05.png" alt="" /><img src="typography/Screen Shot 2018-04-03 at 13.32.05.png" alt="" width="579" height="318" /></p>
 <hr />
 <h2 id="mcetoc_1cavbckv11">Source Sans Pro</h2>
-<p>For any basic text, try to use Source sans pro and vary between the four flavours on the page to the right. Do feel free for some Italian now and than. &lsquo;because everybody likes pizza&rsquo; ![](Screen%20Shot%202018-04-03%20at%2013.32.39.png)</p>
+<p>For any basic text, try to use Source sans pro and vary between the four flavours on the page to the right. Do feel free for some Italian now and than. &lsquo;because everybody likes pizza&rsquo;&nbsp;</p>
+<p><img src="typography/Screen Shot 2018-04-03 at 13.32.39.png" alt="" width="581" height="643" /></p>
 <hr />
 <h2 id="mcetoc_1cavbd6243">Sizing</h2>
 <p>&nbsp;</p>
