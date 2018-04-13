@@ -23,5 +23,5 @@ visible: true
 <p>H3 - Melbourne - for misc headers - line-height: 1.25</p>
 <hr />
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-<p>20px Body - Source Sans Pro - 14px - 22px line-height</p>
+<p>Body - Source Sans Pro - 14px - line-height: 1.5</p>
 </div>
