@@ -6,7 +6,7 @@ visible: true
 <table>
 <tbody>
 <tr>
-<td>Color contrast checker</td>
+<td>Color contrast checker&nbsp;&nbsp;</td>
 <td><a href="https://userway.org/contrast-checker">userway.org/contrast-checker</a></td>
 </tr>
 <tr>
