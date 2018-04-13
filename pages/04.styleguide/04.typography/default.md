@@ -21,7 +21,9 @@ visible: true
 <p>&nbsp;</p>
 <h3 id="mcetoc_1cavbfqi76">Heading 3 - The quick brown fox jumps over the lazy dog.</h3>
 <p>H3 - Melbourne - for misc headers - line-height: 1.25</p>
+</div>
 <hr />
+<div class="font-size-samples">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
 <p>Body - Source Sans Pro - 14px - line-height: 1.5</p>
 </div>
