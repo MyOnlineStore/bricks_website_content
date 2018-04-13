@@ -27,8 +27,8 @@ visible: true
 <p>H3 - Melbourne - for misc headers - 22px - line-height: 1.25</p>
 </div>
 <hr />
-<div class="font-size-samples">
 <h2 id="mcetoc_1cavfvns90">Body text</h2>
+<div class="font-size-samples">
 <p>Lorem ipsum dolor sit amet, <em>consectetur adipiscing elit</em>. Nullam quis risus eget urna mollis <span style="text-decoration: underline;">ornare vel eu leo</span>. Donec ullamcorper <strong>nulla non metus</strong> auctor fringilla. Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
 <p>Fusce dapibus, tellus ac cursus commodo, <a href="#">tortor mauris condimentum</a> nibh, ut fermentum massa justo sit amet risus. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla.</p>
 <p>Body - Source Sans Pro - 14px - line-height: 1.5</p>
