@@ -6,13 +6,9 @@ visible: true
 <table class="data-table">
 <tbody>
 <tr>
-<td>&nbsp;</td>
-<td>
-<p><strong>Engels</strong></p>
-</td>
-<td>
-<p><strong>Nederlands</strong></p>
-</td>
+<th>&nbsp;</th>
+<th><strong>Engels</strong></th>
+<th><strong>Nederlands</strong></th>
 </tr>
 <tr>
 <td>
