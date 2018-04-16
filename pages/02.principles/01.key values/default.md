@@ -3,6 +3,8 @@ title: 'Key values'
 visible: true
 ---
 
+<p>MyOnlineStore's key values describe the four keywords that we think are the heart of each of our products. They can help you when creating content or developing MyOnlineStore products.</p>
+<hr />
 <h2 id="mcetoc_1cavnq92d2">Simple</h2>
 <p><em><span style="font-weight: 400;">Gemakkelijk --&gt; Effortless, Easy-to-use </span></em><em><span style="font-weight: 400;">Keep it simple</span></em></p>
 <p><span style="font-weight: 400;">Everyone should be able to turn their idea into an online store without the need for any coding, (e-)commerce or design experience. At the same time experienced entrepreneurs should be able to run a successful online business with little effort. Every product of MyOnlineStore is designed to be very easy to set-up and maintain, empowering the experienced without overwhelming the inexperienced. </span></p>
