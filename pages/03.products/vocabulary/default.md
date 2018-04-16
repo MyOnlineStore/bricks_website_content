@@ -3,7 +3,7 @@ title: Vocabulary
 visible: true
 ---
 
-<table>
+<table class="data-table">
 <tbody>
 <tr>
 <td>&nbsp;</td>
