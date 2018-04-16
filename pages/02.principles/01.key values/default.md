@@ -1,5 +1,5 @@
 ---
-title: Keywords
+title: 'Key values'
 visible: true
 ---
 
